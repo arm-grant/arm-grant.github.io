@@ -17,7 +17,7 @@ DefaultContentLanguage = "en"
 ### param "url" - Menu item url
 ### param "sections" - list of sections what will be show of each card, all prebuild sections name see in documentations
 [menu]
-[[menu.main]]
+[[menu.main]] 
   identifier = "about"
   name = "About"
   pre = "far fa-user"
