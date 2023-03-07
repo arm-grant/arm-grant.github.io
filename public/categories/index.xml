@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Grant Baloyan</title>
+    <link>https://grant.wide.su/categories/</link>
+    <description>Recent content in Categories on Grant Baloyan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://grant.wide.su/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travel</title>
+      <link>https://grant.wide.su/categories/travel/</link>
+      <pubDate>Wed, 16 Sep 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://grant.wide.su/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>https://grant.wide.su/categories/documentation/</link>
+      <pubDate>Wed, 15 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://grant.wide.su/categories/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://grant.wide.su/categories/development/</link>
+      <pubDate>Sun, 12 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://grant.wide.su/categories/development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

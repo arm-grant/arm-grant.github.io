@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Grant Baloyan</title>
+    <link>https://grant.wide.su/categories/travel/</link>
+    <description>Recent content in Travel on Grant Baloyan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://grant.wide.su/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UI &amp; UX Conference at Lviv 2022</title>
+      <link>https://grant.wide.su/blog/ui-ux-conference-at-lviv-2022/</link>
+      <pubDate>Wed, 16 Sep 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://grant.wide.su/blog/ui-ux-conference-at-lviv-2022/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Designers thoughts about mobile UI templates</title>
+      <link>https://grant.wide.su/blog/designers-thoughts-about-mobile-ui/</link>
+      <pubDate>Tue, 14 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://grant.wide.su/blog/designers-thoughts-about-mobile-ui/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Things you must know as a designer</title>
+      <link>https://grant.wide.su/blog/things-you-must-know-as-a-designer/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://grant.wide.su/blog/things-you-must-know-as-a-designer/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>World&#39;s Most Famous App Developers and Designers</title>
+      <link>https://grant.wide.su/blog/world-most-famous-app-developers-and-designers/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://grant.wide.su/blog/world-most-famous-app-developers-and-designers/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+  </channel>
+</rss>
