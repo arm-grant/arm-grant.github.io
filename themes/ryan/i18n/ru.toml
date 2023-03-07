@@ -1,0 +1,71 @@
+[all]
+other = "Все"
+
+[menu]
+other = "Меню"
+
+[archive]
+other = "Архив"
+
+[blogPost]
+other = "Запись в блоге"
+
+[by]
+other = "By"
+
+[share]
+other = "Поделиться"
+
+[shareOn]
+other = "Поделиться на"
+
+[tags]
+other = "Теги"
+
+[prev]
+other = "Предыдущий"
+
+[next]
+other = "Cледующий"
+
+[comments]
+other = "комментарий"
+
+[fullName]
+other = "Полное имя"
+
+[emailAddress]
+other = "Email"
+
+[yourMessage]
+other = "Ваше сообщение"
+
+[sendMessage]
+other = "Отправить сообщение"
+
+[viewProject]
+other = "Посмотреть проект"
+
+[new]
+other = "новый"
+
+[search]
+other = "Поиск ..."
+
+[latestPosts]
+other = "Последние посты"
+
+[categories]
+other = "Котегории"
+
+[successMessage]
+other = "Спасибо, ваше сообщение отправлено успешно."
+
+[errorNum]
+other = "404"
+
+[errorTitle]
+other = "Упссс!"
+
+[errorText]
+other = "Страница, которую вы ищете, не существует или была перемещена."
