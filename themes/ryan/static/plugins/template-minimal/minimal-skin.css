@@ -751,3 +751,12 @@ textarea:focus,
     background: none !important;
   }
 }
+
+.ion {
+  /* -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  background: linear-gradient(225deg, #FFB8AB 0%, #FF4EAE 29.69%, #A128FF 70.31%, #2B95FF 100%) !important;
+  text-fill-color: transparent !important; */
+  -webkit-text-fill-color: #fff;
+}
