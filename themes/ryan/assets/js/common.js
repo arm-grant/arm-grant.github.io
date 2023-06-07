@@ -1,7 +1,7 @@
 /**
 *   RyanCV - Resume/CV/vCard Theme (HUGO)
 *   Version: 1.0.0
-*   Author: Grant Baloyan
+*   Author: Name Name2
 *   Website: https://bslthemes.com/
 *   Author URL: https://themeforest.net/user/bslthemes
 *   Copyright © RyanCV by bslthemes. All Rights Reserved.

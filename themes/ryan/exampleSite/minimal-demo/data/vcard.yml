@@ -10,7 +10,7 @@
 main:
   bgimage: "images/bg.jpg"
   photo: ""
-  name: "Grant Baloyan"
+  name: "Name Name2"
   typed:
     - text: "Web Designer"
     - text: "Blogger"
